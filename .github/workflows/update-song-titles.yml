@@ -1,16 +1,17 @@
-name: Update fictional band song titles
+name: Update fictional band song concepts
 
 on:
   push:
     paths:
       - ".github/workflows/update-song-titles.yml"
+      - "tools/update_song_titles.py"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-song-titles:
+  update-song-concepts:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -23,10 +24,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate new song titles
+      - name: Expand song titles into cinematic concepts
         run: python tools/update_song_titles.py
 
-      - name: Commit catalog-wide title expansion
+      - name: Commit catalog-wide song concept expansion
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -36,5 +37,5 @@ jobs:
             echo "No catalog changes detected."
             exit 0
           fi
-          git commit -m "Add new song titles across fictional band catalog"
+          git commit -m "Expand fictional band songs with cinematic descriptions"
           git push
