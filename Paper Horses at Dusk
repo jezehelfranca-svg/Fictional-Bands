@@ -133,4 +133,7 @@ A cinematic documentary-style medium-format press photograph inside a shuttered 
 
 # Suno Style Prompt
 
-**String-Lattice Décalé: Lithuanian kanklės + coupé-décalé + prepared electric piano + dundun/woodblock + bass flugelhorn, 118–128 BPM. Dry compact kick, clipped clap, short tom answers, sparse shaker and quick electric-bass punctuation. Center real kanklės with crisp finger plucks, tonic/fifth drones, sus2/minor-7 modal cells, selective damping and ringing open courses. Build overlapping 5-, 7-, or 9-attack Lattice Cells across stable 4/4; use Thread Swap to move the same rhythm between low/high strings. Put bright percussion on cell coincidence points instead of always beat one. Add dry Wurlitzer shells, selective dundun/woodblock and brief warm bass-flugelhorn replies. Keep effects short. Avoid zither loops, EDM risers, long 808s, pad wash and cinematic folk layers.**
+**String-Lattice Décalé: Lithuanian kanklės + coupé-décalé + prepared electric piano + dundun/woodblock + bass flugelhorn, 118–128 BPM. Dry compact kick, clipped clap, short tom answers, sparse shaker and quick electric-bass punctuation. Center real kanklės with crisp finger plucks, tonic/fifth drones, sus2/minor-7 modal cells, selective damping and ringing open courses. Build overlapping 5-, 7-, or 9-attack Lattice Cells across stable 4/4; use Thread Swap to move the same rhythm between low/high strings. Put bright percussion on cell coincidence points instead of always beat one. Add dry Wurlitzer shells, selective dundun/woodblock and brief warm bass-flugelhorn replies. Keep effects short. **
+
+# Exclude Styles
+zither loops, EDM risers, long 808s, pad wash, cinematic folk layers, autotune

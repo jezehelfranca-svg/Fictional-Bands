@@ -69,4 +69,7 @@ Vibe: A bowed note wakes hidden understrings, stops, and only then allows the ma
 
 # Suno Style Prompt
 
-Resonance-Delay Techno: Hardanger fiddle + dub techno + prepared Rhodes + gran cassa + bass flute, 112–120 BPM. Deep minimal 4/4 with compact kick, sparse clap/snare, restrained hats, short analog root/fifth bass and narrow filtered dub-chord echoes. Center real Hardanger fiddle with audible sympathetic understrings, open fifths, sus2/modal cells, bowed harmonics and long releases. Shape phrases BOW → WAKE → RELEASE → ECHO: expose acoustic tail after release, then introduce delayed Rhodes chord or bass only after real resonance begins fading. Use Sympathetic Hold sections with less delay so natural understrings become the pad. Keep effects frequency-limited and spacious. Avoid synthetic fiddle doubling, trance pads, EDM risers, huge reverb wash, and cinematic string scoring.
+Resonance-Delay Techno: Hardanger fiddle + dub techno + prepared Rhodes + gran cassa + bass flute, 112–120 BPM. Deep minimal 4/4 with compact kick, sparse clap/snare, restrained hats, short analog root/fifth bass and narrow filtered dub-chord echoes. Center real Hardanger fiddle with audible sympathetic understrings, open fifths, sus2/modal cells, bowed harmonics and long releases. Shape phrases BOW → WAKE → RELEASE → ECHO: expose acoustic tail after release, then introduce delayed Rhodes chord or bass only after real resonance begins fading. Use Sympathetic Hold sections with less delay so natural understrings become the pad. Keep effects frequency-limited and spacious.
+
+# Exclude Styles
+synthetic fiddle doubling, trance pads, EDM risers, huge reverb wash, and cinematic string scoring, autotune

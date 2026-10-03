@@ -127,4 +127,7 @@ A cinematic documentary-style medium-format press photograph inside a decommissi
 
 # Suno Style Prompt
 
-**Rebound Jersey: Kashmiri santoor + Jersey club + prepared Wurlitzer + daf/woodblock + bass clarinet, 132–140 BPM. Compact hard kicks, clipped snare, broken 16th hats, selective club kick triplets and abrupt gaps. Center real santoor: paired-string strikes, mallet rebound, tonic/fifth modal cells, sus2/minor-7 color, bridge-region shifts, sympathetic shimmer and hard hand damping. Shape each hit HIT→BOUNCE→SHIMMER→MUTE; place kick triplets around rebound spacing without sampling the santoor. Use Damp Drops where physical muting cues silence or bass return. Add dry prepared-Wurlitzer dyads, selective daf/woodblock replacements, breathy bass clarinet, short electric-bass pulses. Keep effects short. Avoid 808 glides, EDM builds, cinematic strings, synthetic dulcimer layers, dense tabla loops and glossy pads.**
+**Rebound Jersey: Kashmiri santoor + Jersey club + prepared Wurlitzer + daf/woodblock + bass clarinet, 132–140 BPM. Compact hard kicks, clipped snare, broken 16th hats, selective club kick triplets and abrupt gaps. Center real santoor: paired-string strikes, mallet rebound, tonic/fifth modal cells, sus2/minor-7 color, bridge-region shifts, sympathetic shimmer and hard hand damping. Shape each hit HIT→BOUNCE→SHIMMER→MUTE; place kick triplets around rebound spacing without sampling the santoor. Use Damp Drops where physical muting cues silence or bass return. Add dry prepared-Wurlitzer dyads, selective daf/woodblock replacements, breathy bass clarinet, short electric-bass pulses. Keep effects short. **
+
+# Exclude Styles
+808 glides, EDM builds, cinematic strings, synthetic dulcimer layers, dense tabla loops, autotune

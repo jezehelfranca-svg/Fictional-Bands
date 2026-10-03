@@ -108,4 +108,8 @@ Vibe: One metal tongue stays nearly pitch-stable while the performer’s mouth c
 
 Suno Style Prompt
 
-Formant-Grid Electro: Yakut khomus + Detroit electro/minimal synth + prepared clavichord + rototoms/woodblock + tenor sax, 112–124 BPM. Dry compact kick, short snare, sparse clap, restrained 16th hats, rigid 1–2-note mono bass. Center real khomus with metallic pulse, jaw/tongue/throat overtone control and breath offsets. Move through NARROW→FRONT→HOLLOW→OPEN mouth states while the fundamental stays nearly fixed. Keep synth pitch static as acoustic formants move; use Cavity Lock sections where mouth shape freezes while the machine sequence changes. Add brittle clavichord fifth/sus2/minor-7 checkpoints, dry rototoms/woodblock, brief tenor subtone and key noise. Thin upper percussion during OPEN states. Avoid vocoder, talkbox, auto-wah, synth khomus doubling, cinematic Siberian drones, long 808s and EDM builds.
+Formant-Grid Electro: Yakut khomus + Detroit electro/minimal synth + prepared clavichord + rototoms/woodblock + tenor sax, 112–124 BPM. Dry compact kick, short snare, sparse clap, restrained 16th hats, rigid 1–2-note mono bass. Center real khomus with metallic pulse, jaw/tongue/throat overtone control and breath offsets. Move through NARROW→FRONT→HOLLOW→OPEN mouth states while the fundamental stays nearly fixed. Keep synth pitch static as acoustic formants move; use Cavity Lock sections where mouth shape freezes while the machine sequence changes. Add brittle clavichord fifth/sus2/minor-7 checkpoints, dry rototoms/woodblock, brief tenor subtone and key noise. Thin upper percussion during OPEN states.
+
+
+Exclude Styles
+vocoder, talkbox, auto-wah, synth khomus doubling, cinematic Siberian drones, chipmunk vocals

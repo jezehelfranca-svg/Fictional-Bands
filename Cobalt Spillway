@@ -115,4 +115,7 @@ When the water nearly stops, the euphonium enters with one breath-led low note s
 
 # Suno Style Prompt
 
-**Sluice Chaabi (HYDRAULOPHONE + MOROCCAN CHAABI PERCUSSION + FIELD SNARE + PREPARED BARITONE GUITAR, 112–120 BPM). Build a compact chaabi groove from bendir, darbuka, handclaps, rolling fills and restrained kick/sub support. Hydraulophone is the lead voice: audible jets, pressure bends, wet staccatos, partial occlusion and fluid glissandi; keep it physical, not ambient. Add tightly damped field snare with rods, rimshots and straight counter-grids. Prepared baritone guitar uses foam, paper and clips for dry low knocks, buzzed dyads and metallic ticks. Add sparse euphonium/bass-trumpet breath tones. Use valve clicks and drain resonance as rhythmic cues, short tiled-room reverb, and pressure-drop transitions instead of risers. Avoid trap hats, cinematic pads, EDM builds and generic world-fusion gloss.**
+**Sluice Chaabi (HYDRAULOPHONE + MOROCCAN CHAABI PERCUSSION + FIELD SNARE + PREPARED BARITONE GUITAR, 112–120 BPM). Build a compact chaabi groove from bendir, darbuka, handclaps, rolling fills and restrained kick/sub support. Hydraulophone is the lead voice: audible jets, pressure bends, wet staccatos, partial occlusion and fluid glissandi; keep it physical, not ambient. Add tightly damped field snare with rods, rimshots and straight counter-grids. Prepared baritone guitar uses foam, paper and clips for dry low knocks, buzzed dyads and metallic ticks. Add sparse euphonium/bass-trumpet breath tones. Use valve clicks and drain resonance as rhythmic cues, short tiled-room reverb, and pressure-drop transitions instead of risers. **
+
+# Exclude Styles
+trap hats, cinematic pads, EDM builds, generic world-fusion gloss, autotune, lo-fi hiss
