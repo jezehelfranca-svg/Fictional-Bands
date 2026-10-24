@@ -1,0 +1,30 @@
+name: Test Suno/MIDI song composer
+
+on:
+  push:
+    paths:
+      - "tools/compose_song.py"
+      - "tests/**"
+      - ".github/workflows/test-composer.yml"
+  pull_request:
+    paths:
+      - "tools/compose_song.py"
+      - "tests/**"
+      - ".github/workflows/test-composer.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-composer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Smoke test on real catalog
+        run: python tools/compose_song.py --band "Ablation Cycle" --track 1 --mode both --output /tmp/fictional-band-check
